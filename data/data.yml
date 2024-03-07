@@ -1,0 +1,6 @@
+train: /Users/work/Desktop/BuroHappold/Task/data/train/images
+val: /Users/work/Desktop/BuroHappold/Task/data/valid/images
+test: /Users/work/Desktop/BuroHappold/Task/data/test/images
+
+nc: 3
+names: ['door', 'window', 'zone']
